@@ -1,0 +1,14 @@
+name: python-tutorials
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - jupyterlab
+  - jupyterlab_code_formatter
+  - isort
+  - black
+  - pre-commit
+  - plotnine
+prefix: /usr/local/Caskroom/miniconda/base/envs/python-tutorials
