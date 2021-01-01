@@ -9,7 +9,7 @@ Just a repository of notes from online tutorials.
 My notes are not intended to be guides for others, just a resource for myself.
 As such, many details are missing and the documention is incomplete.
 
-* [Real Python - *SimPy: Simulating Real-World Processes With Python*](./real-python_simpy.ipynb)
-* [Real Python - *Primer on Python Decorators*](./real-python_decorators.ipynb)
-* [Real Python - *Using ggplot in Python: Visualizing Data With plotnine*](./real-python_plotnine.ipynb)
-* [Real Python - *Data Management With Python, SQLite, and SQLAlchemy*](./real-python_plotnine.ipynb)
+- [Real Python - *SimPy: Simulating Real-World Processes With Python*](./real-python_simpy.ipynb)
+- [Real Python - *Primer on Python Decorators*](./real-python_decorators.ipynb)
+- [Real Python - *Using ggplot in Python: Visualizing Data With plotnine*](./real-python_plotnine.ipynb)
+- [Real Python - *Data Management With Python, SQLite, and SQLAlchemy*](./real-python_plotnine.ipynb (incomplete)
